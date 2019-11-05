@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{53677F42-B194-4783-AB9E-3523B1C29391}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{FF43EC90-EB92-43CC-9D10-EC6684AE2E35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{A0C4B24B-92B4-43D0-840E-1D10E75E5DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPractice.Console", "AlgorithmPractice.Console\AlgorithmPractice.Console.csproj", "{6CA21BE2-1465-4388-994E-6D69D9B84B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPratice.Core", "AlgorithmPratice.Core\AlgorithmPratice.Core.csproj", "{F2AD07F9-1688-4309-96F6-4703183CD3C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA21BE2-1465-4388-994E-6D69D9B84B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA21BE2-1465-4388-994E-6D69D9B84B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA21BE2-1465-4388-994E-6D69D9B84B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA21BE2-1465-4388-994E-6D69D9B84B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AD07F9-1688-4309-96F6-4703183CD3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AD07F9-1688-4309-96F6-4703183CD3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AD07F9-1688-4309-96F6-4703183CD3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AD07F9-1688-4309-96F6-4703183CD3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CA21BE2-1465-4388-994E-6D69D9B84B99} = {FF43EC90-EB92-43CC-9D10-EC6684AE2E35}
+		{F2AD07F9-1688-4309-96F6-4703183CD3C3} = {FF43EC90-EB92-43CC-9D10-EC6684AE2E35}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DBC021-5D88-4C38-B050-F823BF5187F7}
+	EndGlobalSection
+EndGlobal

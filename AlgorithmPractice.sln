@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{A0C4B24B-9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPractice.Console", "AlgorithmPractice.Console\AlgorithmPractice.Console.csproj", "{6CA21BE2-1465-4388-994E-6D69D9B84B99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPratice.Core", "AlgorithmPratice.Core\AlgorithmPratice.Core.csproj", "{F2AD07F9-1688-4309-96F6-4703183CD3C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmPractice.Core", "AlgorithmPratice.Core\AlgorithmPractice.Core.csproj", "{F2AD07F9-1688-4309-96F6-4703183CD3C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

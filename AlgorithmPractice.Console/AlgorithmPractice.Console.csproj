@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AlgorithmPratice.Core\AlgorithmPratice.Core.csproj">
+    <ProjectReference Include="..\AlgorithmPratice.Core\AlgorithmPractice.Core.csproj">
       <Project>{F2AD07F9-1688-4309-96F6-4703183CD3C3}</Project>
-      <Name>AlgorithmPratice.Core</Name>
+      <Name>AlgorithmPractice.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,4 +1,4 @@
-﻿using AlgorithmPratice.Core;
+﻿using AlgorithmPractice.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -29,7 +29,7 @@ namespace AlgorithmPractice.Core
         public static int RemoveDuplicates(int[] nums)
         {
             int j = 0;
-            for (int i = 1; i <= nums.Length; i++)
+            for (int i = 1; i < nums.Length; i++)
             {
                 if (nums[i] != nums[j])
                 {
@@ -37,7 +37,7 @@ namespace AlgorithmPractice.Core
                     nums[j] = nums[i];
                 }
             }
-            return j;
+            return j + 1;
         }
         public static int RemoveDuplicatesV2(int[] nums)
         {
@@ -53,7 +53,7 @@ namespace AlgorithmPractice.Core
                     }
                 }   
             }
-            return j;
+            return j + 1;
         }
 
         /**************************************

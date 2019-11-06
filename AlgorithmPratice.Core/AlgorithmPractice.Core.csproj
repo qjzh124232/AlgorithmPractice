@@ -7,7 +7,7 @@
     <ProjectGuid>{F2AD07F9-1688-4309-96F6-4703183CD3C3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AlgorithmPratice.Core</RootNamespace>
+    <RootNamespace>AlgorithmPractice.Core</RootNamespace>
     <AssemblyName>AlgorithmPractice.Core</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,8 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MaximumLengthofPairChain.cs" />
     <Compile Include="RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RotateArray.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

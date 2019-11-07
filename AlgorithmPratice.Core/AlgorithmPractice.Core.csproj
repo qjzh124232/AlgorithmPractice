@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MaximumLengthofPairChain.cs" />
+    <Compile Include="MergeTwoSortedLists.cs" />
     <Compile Include="RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RotateArray.cs" />

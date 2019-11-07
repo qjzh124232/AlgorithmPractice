@@ -44,7 +44,7 @@ namespace AlgorithmPractice.Console
 
             //旋转数组
             int[] Rotate = { 1, 2, 3, 4, 5, 6, 7 };
-            RotateArray.RotateV2(Rotate, 3);
+            RotateArray.RotateV3(Rotate, 3);
 
         }
     }
